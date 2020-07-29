@@ -1,3 +1,3 @@
-module github.com/bxcodec/multiplies
+module github.com/supersheeps/multiplies
 
 go 1.14
